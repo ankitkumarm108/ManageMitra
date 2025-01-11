@@ -3,7 +3,6 @@ import React from 'react'
 import { DrawerActions, useNavigation } from '@react-navigation/native'
 import { SafeAreaProvider } from 'react-native-safe-area-context'
 import Container from '../../../Components/Container'
-import { Colors } from '../../../Utils/Variables'
 import SocialChanelSlider from './Components/SocialChanelSlider'
 
 const AdsHomeScreen = () => {

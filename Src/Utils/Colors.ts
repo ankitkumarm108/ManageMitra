@@ -1,4 +1,4 @@
-export const Colors={
+export default {
     transparent: "transparent",
     white: "#ffffff",
     themBackground: "#BBDAD3",
@@ -8,7 +8,6 @@ export const Colors={
     textGray: "#38413F",
     selagoGray: "#F4F3F4",
     gainsboroGray: "#DBDBDB",
-    // red: '#FF5A5A',
     red: "#FF0000",
     onSwitchBackground: "#9bc7c0",
     offSwitchBackground: "#bbbbbb",
